@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/ricardoxorge)
 
-![RCD313's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCD313&show_icons=true&theme=dracula)
+![Ricardo-Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu utilizo
 
