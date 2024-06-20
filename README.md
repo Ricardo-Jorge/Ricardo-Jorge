@@ -9,7 +9,7 @@
 
 ![Ricardo-Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge&show_icons=true&theme=dracula)
 
-## Tecnologias que eu utilizo
+## Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
