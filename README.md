@@ -6,6 +6,8 @@
 )](https://x.com/ricardoxorge)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/ricardoxorge)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](ricardolajorge@gmail.com)
 
 ![Ricardo-Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge&show_icons=true&theme=dracula)
 
