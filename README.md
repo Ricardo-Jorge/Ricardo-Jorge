@@ -9,7 +9,7 @@
 
 ![Ricardo-Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Jorge)](https://github.com/Ricardo-Jorge/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Jorge&layout=compact&theme=dracula)
 
 ## Tecnologias que eu utilizo:
 
