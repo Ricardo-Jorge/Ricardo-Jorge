@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Jorge&layout=compact&theme=dracula)
 
-## Tecnologias que eu utilizei em meus projetos pessoais:
+## Tecnologias que eu utilizei em meus projetos:
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
