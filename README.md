@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Jorge&layout=compact&theme=dracula)
 
-## Tecnologias que eu utilizo:
+## Tecnologias que eu utilizei em meus projetos pessoais:
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -26,6 +26,16 @@
 <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div><br/>
+
+## Meus Projetos:
+
+- ReactGram - https://reactgram-daqp.onrender.com
+- MiniBlog - https://miniblog-esjq.onrender.com
+- Secret Word (game) - https://secret-word-ke7u.onrender.com
+- To do list - https://todo-list-z799.onrender.com
+- Movie Library - https://movie-lib-2ar2.onrender.com
+
+<br/>
 
 Redescobrindo um novo caminho através da tecnologia, em constante aprendizado 📚, em busca de um novo destino. Um passo de cada vez...
 
