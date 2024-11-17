@@ -37,5 +37,6 @@
 
 <br/>
 
+## Sobre mim:
 Redescobrindo um novo caminho através da tecnologia, em constante aprendizado 📚, em busca de um novo destino. Um passo de cada vez...
 
