@@ -8,6 +8,8 @@
 )](https://instagram.com/ricardoxorge)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:ricardolajorge@gmail.com)
+[![CodeWars]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](https://www.codewars.com/users/Ricardo-Jorge/badges/micro))]()
 
 ![Ricardo-Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge&show_icons=true&theme=dracula)
 
