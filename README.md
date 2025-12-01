@@ -9,10 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:ricardolajorge@gmail.com)
 
-[![Ricardo Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge)](https://github.com/Ricardo-Jorge/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Jorge&layout=compact&theme=dracula)
-
 ## Tecnologias que eu utilizei em meus projetos e estudos:
 
 <div style="display: inline_block"><br/>
@@ -39,5 +35,19 @@
 <br/>
 
 ## Sobre mim:
-Redescobrindo um novo caminho através da tecnologia, em constante aprendizado 📚, em busca de um novo destino. Um passo de cada vez...
+Profissional com mais de 10 anos de experiência em liderança e otimização de processos, atualmente em transição de carreira para a área de Tecnologia. Recentemente concluí minha Pós-Graduação em Desenvolvimento Fullstack e Cloud Computing para unir uma sólida visão de negócios à capacidade de entregar soluções de software robustas e eficientes.
+
+O que eu trago da minha carreira anterior: 
+- Visão estratégica e análise de requisitos de negócio.
+- Experiência comprovada em mapeamento e automação de processos.
+- Liderança de equipes e comunicação eficaz.
+
+Minhas novas competências técnicas:
+- Backend: Node.js, Express, Sequelize.
+- Banco de Dados: PostgreSQL, MySQL.
+- Frontend: React, JavaScript, HTML5/CSS3.
+- DevOps & Cloud: Git, Docker, CI/CD, e fundamentos de AWS.
+
+O que eu busco: 
+Uma posição na área de desenvolvimento de software onde eu possa atuar na análise, construção e sustentação de sistemas, resolvendo problemas reais e agregando valor tanto para a equipe de tecnologia quanto para as áreas de negócio.
 
