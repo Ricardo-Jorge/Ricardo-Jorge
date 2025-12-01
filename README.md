@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:ricardolajorge@gmail.com)
 
-![Ricardo-Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge&show_icons=true&theme=dracula)
+[![Ricardo Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Jorge)](https://github.com/Ricardo-Jorge/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Jorge&layout=compact&theme=dracula)
 
